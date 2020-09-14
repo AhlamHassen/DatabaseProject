@@ -2,9 +2,5 @@ C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\bin\
 C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\bin\Debug\DatabaseProject__1.dll
 C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\bin\Debug\DatabaseProject__1.pdb
 C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\DatabaseProject__1.sqlprojAssemblyReference.cache
-C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\Model.xml
-C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\refactor.xml
-C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\postdeploy.sql
-C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\predeploy.sql
 C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\DatabaseProject__1.dll
 C:\Users\Ahlam\Desktop\DB_Project1\DatabaseProject_1_sln\DatabaseProject__1\obj\Debug\DatabaseProject__1.pdb

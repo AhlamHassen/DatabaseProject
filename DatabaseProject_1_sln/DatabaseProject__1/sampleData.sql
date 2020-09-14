@@ -9,7 +9,7 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-IF ('$(insertToTableTest)' = 'True')
+IF ('$(insertToTableTest)' = 'true')
 DELETE FROM Office_Table;
 
 BEGIN

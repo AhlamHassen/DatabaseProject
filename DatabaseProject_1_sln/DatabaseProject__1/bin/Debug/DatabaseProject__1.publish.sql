@@ -16,8 +16,8 @@ GO
 :setvar insertToTableTest "true"
 :setvar DatabaseName "DatabaseProject__1"
 :setvar DefaultFilePrefix "DatabaseProject__1"
-:setvar DefaultDataPath "C:\Users\Ahlam\AppData\Local\Microsoft\VisualStudio\SSDT\DatabaseProject_1_sln"
-:setvar DefaultLogPath "C:\Users\Ahlam\AppData\Local\Microsoft\VisualStudio\SSDT\DatabaseProject_1_sln"
+:setvar DefaultDataPath "C:\Users\Ahlam\AppData\Local\Microsoft\VisualStudio\SSDT\"
+:setvar DefaultLogPath "C:\Users\Ahlam\AppData\Local\Microsoft\VisualStudio\SSDT\"
 
 GO
 :on error exit

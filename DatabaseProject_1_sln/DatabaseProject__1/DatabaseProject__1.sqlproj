@@ -61,6 +61,7 @@
     <Build Include="Office_Table.sql" />
     <Build Include="Employee_Table.sql" />
     <Build Include="Assignment_Table.sql" />
+    <Build Include="Add_Employee.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="DatabaseProject__1.refactorlog" />
